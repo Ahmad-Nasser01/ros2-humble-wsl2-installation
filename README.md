@@ -56,7 +56,8 @@ The environment was successfully verified by executing the following commands in
 
 2. Terminal Execution Proof:
 
-![ROS 2 Humble Verification](ros2_proof.png)
+![ROS 2 Humble Verification](<img width="1011" height="630" alt="image" src="https://github.com/user-attachments/assets/80b7207e-13fa-4579-ad73-e5f01c63425a" />
+)
 
 ---
 
